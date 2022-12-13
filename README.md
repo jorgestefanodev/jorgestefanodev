@@ -5,7 +5,7 @@
 - 🌱 Cursando programação na Infinity School(Full Stack)
 - 👯 Atualmente aprendendo Pandas e Numpy para análise de dados
 - 📫 Para falar comigo: jorgestefano.dev@proton.me
- ##
+##
 <div align="center">
   <a href="https://github.com/jorgestefanodev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jorgestefanodev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -13,7 +13,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="stefano-linguagens" src="https://skills.thijs.gg/icons?i=python,mysql">
-  <img align="center" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" />
+  <img align="center" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" />
 </div>
   
  ##
