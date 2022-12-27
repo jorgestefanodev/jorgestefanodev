@@ -2,8 +2,8 @@
 #
 
 - 🔭 Atualmente trabalhando em projetos pessoais para conseguir um emprego ...
-- 🌱 Cursando programação na Infinity School(Full Stack)
-- 👯 Atualmente aprendendo Pandas e Numpy para análise de dados
+- 💻 Cursando programação na Infinity School(Full Stack)
+- 👨‍💻 Atualmente aprendendo Pandas e Numpy para análise de dados
 - 📫 Para falar comigo: jorgestefano.dev@proton.me
 ##
 <div align="center">
