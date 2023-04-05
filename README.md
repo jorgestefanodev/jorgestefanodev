@@ -4,19 +4,24 @@
 - 🔭 Atualmente trabalhando em projetos pessoais para conseguir um emprego ...
 - 💻 Cursando programação na Infinity School(Full Stack)
 - 👨‍💻 Atualmente aprendendo Javascript e Flask
-- 📫 Para falar comigo: jorgestefano.dev@proton.me
+- 📫 Para falar comigo: <a href="https://wa.me/5571982978322"> ![WPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
+ <a href = "mailto:jorgestefano.dev@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
+ 
 ##
-<div align="center">
+<div>
   <a href="https://github.com/jorgestefanodev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jorgestefanodev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgestefanodev&layout=compact&langs_count=7&theme=algolia"/>
-  <img height="180em" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="stefano-linguagens" src="https://skills.thijs.gg/icons?i=python,mysql">
-  <img align="center" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" />
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> 
+   <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+   <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+   
+
 </div>
   
  ##
- <a href="https://wa.me/5571982978322"> ![WPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
- <a href = "mailto:jorgestefano.dev@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
+
