@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente trabalhando em projetos pessoais para conseguir um emprego ...
 - 💻 Cursando programação na Infinity School(Full Stack)
-- 👨‍💻 Atualmente aprendendo Javascript e Flask
+- 👨‍💻 Atualmente aprendendo Django
 - 📫 Para falar comigo: <a href="https://wa.me/5571982978322"> ![WPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
  <a href = "mailto:jorgestefano.dev@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
  
